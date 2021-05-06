@@ -61,4 +61,4 @@ function md5(r) {
 	return t(d) + t(b) + t(m) + t(w)
 }
 ```
-3. Page refresh, and that's it.
+3. Refresh the page, and that's it.
