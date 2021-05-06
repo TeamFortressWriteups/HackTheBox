@@ -1,5 +1,6 @@
 # Emdee five for life #
-##Solver: Yan Osher Cohen##
+Solver: Yan Osher Cohen
+---------------
 1. I've installed the "Scripty" plugin (https://chrome.google.com/webstore/detail/scripty-javascript-inject/milkbiaeapddfnpenedfgbfdacpbcbam/related)
 So I will be able to inject my script on page load
 2. I wrote a script that takes the random string from the header, hashing it, and submitting
