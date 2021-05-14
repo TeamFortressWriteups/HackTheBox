@@ -11,7 +11,7 @@ By msf-pattern tools and GDB, I found that the return address stored 188 offset 
 | ------------ | ------------ |
 |  return address | 4 bytes [target]  |
 |  saved ebp |  4 bytes |
-|  . |   |
+|  . |  184 bytes |
 |  . |   |
 |  . |   |
 |  . |   |
@@ -32,7 +32,7 @@ So I decided to go through flag function code, and discovered they search for tw
 | padding | 4 bytes |
 |  return address | 4 bytes [target]  |
 |  saved ebp |  4 bytes |
-|  . |   |
+|  . |  184 bytes |
 |  . |   |
 |  . |   |
 |  . |   |
