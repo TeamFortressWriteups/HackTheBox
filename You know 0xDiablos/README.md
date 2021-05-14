@@ -1,4 +1,5 @@
 # You know 0xDiablos ~ HTB ~ Pwn Challenge
+## Solver: Eyal Asulin
 I started with basic checks on the ELF file:
 - There are not any security techniques enabled. (Cannary, NX, ASLR)
 - i386 | 32 bit -> little indian
